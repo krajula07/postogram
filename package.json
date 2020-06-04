@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start":"nodemon",
+    "start":"nodemon nodemon.json",
     "development": "nodemon"
   },
   "keywords": [],
